@@ -1,1 +1,1 @@
-"# App check validity of password" 
+# App check validity of password 
